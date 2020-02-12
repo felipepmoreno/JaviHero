@@ -1,0 +1,23 @@
+body{
+  background-color:#000;
+}
+
+canvas{
+  border: 1px solid blue;
+  margin-left: 335px;
+  margin-top: 20px;
+}
+
+button{
+  background-color:blue;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+}
+
+button:hover{
+  opacity: 0.65;
+}
